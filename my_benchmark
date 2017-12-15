@@ -1,0 +1,1125 @@
+
+Computer
+********
+
+
+Summary
+-------
+
+-Computer-
+Processor		: Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+Memory		: 3902MB (2081MB used)
+Machine Type		: Desktop
+Operating System		: Ubuntu 17.10
+User Name		: joker (IxI_JOKER_IxI)
+Date/Time		: пт, 15-гру-2017 12:26:15 +0200
+-Display-
+Resolution		: 1280x1024 pixels
+OpenGL Renderer		: Unknown
+X11 Vendor		: The X.Org Foundation
+-Audio Devices-
+Audio Adapter		: HDA-Intel - HDA Intel
+-Input Devices-
+ Power Button
+ Power Button
+ Logitech USB Optical Mouse
+ GASIA USB KB V11
+ GASIA USB KB V11
+ HDA Intel Mic
+ HDA Intel Line
+ HDA Intel Line Out
+ HDA Intel Front Headphone
+-Printers-
+-Printers (CUPS)-
+HP_LaserJet_MFP_M227sdn_3A6BFB_
+-Storage-
+-SCSI Disks-
+ATA KINGSTON SV300S3
+ATA WDC WD1600AAJS-7
+
+Operating System
+----------------
+
+-Version-
+Kernel		: Linux 4.13.0-19-generic (x86_64)
+Version		: #22-Ubuntu SMP Mon Dec 4 11:58:07 UTC 2017
+C Library		: GNU C Library / (Ubuntu GLIBC 2.26-0ubuntu2) 2.26
+Distribution		: Ubuntu 17.10
+-Current Session-
+Computer Name		: UBUNTU17-OptiPlex755
+User Name		: joker (IxI_JOKER_IxI)
+Language		: uk_UA.UTF-8 (uk:en)
+Home Directory		: /home/joker
+-Misc-
+Uptime		: 1 hour 11 minutes
+Load Average		: 0,13, 0,23, 0,36
+Available entropy in /dev/random		: 3652 bits (healthy)
+
+Kernel Modules
+--------------
+
+-Loaded Modules-
+cpuid		: x86 generic CPUID driver
+snd_hda_codec_analog		: Analog Devices HD-audio codec
+snd_hda_codec_generic		: Generic HD-audio codec parser
+dcdbas		: Dell Systems Management Base Driver (version 5.6.0-3.2)
+snd_hda_intel		: Intel HDA driver
+snd_hda_codec		: HDA codec core
+snd_hda_core		: HD-audio bus
+snd_hwdep		: Hardware dependent layer
+snd_pcm		: Midlevel PCM code for ALSA.
+snd_seq_midi		: Advanced Linux Sound Architecture sequencer MIDI synth.
+snd_seq_midi_event		: MIDI byte &lt;-&gt; sequencer event coder
+coretemp		: Intel Core temperature monitor
+snd_rawmidi		: Midlevel RawMidi code for ALSA.
+snd_seq		: Advanced Linux Sound Architecture sequencer.
+kvm
+irqbypass		: IRQ bypass manager utility module
+snd_seq_device		: ALSA sequencer device management
+snd_timer		: ALSA timer interface
+input_leds		: Input -&gt; LEDs Bridge
+serio_raw		: Raw serio driver
+snd		: Advanced Linux Sound Architecture driver for soundcards.
+joydev		: Joystick device interfaces
+lpc_ich		: LPC interface for Intel ICH
+soundcore		: Core sound module
+mei_me		: Intel(R) Management Engine Interface
+mei		: Intel(R) Management Engine Interface
+shpchp		: Standard Hot Plug PCI Controller Driver
+mac_hid
+parport_pc		: PC-style parallel port driver
+ppdev
+lp
+parport
+ip_tables		: IPv4 packet filter
+x_tables		: {ip,ip6,arp,eb}_tables backend module
+autofs4
+hid_generic		: HID generic driver
+usbhid		: USB HID core driver
+hid
+i915		: Intel Graphics
+e1000e		: Intel(R) PRO/1000 Network Driver
+psmouse		: PS/2 mouse driver
+ahci		: AHCI SATA low-level driver
+libahci		: Common AHCI SATA low-level routines
+video		: ACPI Video Driver
+i2c_algo_bit		: I2C-Bus bit-banging algorithm
+ptp		: PTP clocks support
+drm_kms_helper		: DRM KMS helper
+pps_core		: LinuxPPS support (RFC 2783) - ver. 5.3.6
+syscopyarea		: Generic copyarea (sys-to-sys)
+sysfillrect		: Generic fill rectangle (sys-to-sys)
+sysimgblt		: 1-bit/8-bit to 1-32 bit color expansion (sys-to-sys)
+fb_sys_fops		: Generic file read (fb in system RAM)
+pata_acpi		: SCSI low-level driver for ATA in ACPI mode
+drm		: DRM shared core routines
+
+Boots
+-----
+
+-Boots-
+Fri Dec 15 11:14		: 4.13.0-19-generi|still
+Fri Dec 15 07:53		: 4.13.0-19-generi|still
+Thu Dec 14 16:22		: 4.13.0-16-generi|-
+Thu Dec 14 20:12		: 4.13.0-16-generi|-
+
+Languages
+---------
+
+-Available Languages-
+en_AG		: English language locale for Antigua and Barbuda
+en_AG.utf8		: English language locale for Antigua and Barbuda
+en_AU.utf8		: English locale for Australia
+en_BW.utf8		: English locale for Botswana
+en_CA.utf8		: English locale for Canada
+en_DK.utf8		: English locale for Denmark
+en_GB.utf8		: English locale for Britain
+en_HK.utf8		: English locale for Hong Kong
+en_IE.utf8		: English locale for Ireland
+en_IL		: English locale for Israel
+en_IL.utf8		: English locale for Israel
+en_IN		: English language locale for India
+en_IN.utf8		: English language locale for India
+en_NG		: English locale for Nigeria
+en_NG.utf8		: English locale for Nigeria
+en_NZ.utf8		: English locale for New Zealand
+en_PH.utf8		: English language locale for Philippines
+en_SG.utf8		: English language locale for Singapore
+en_US.utf8		: English locale for the USA
+en_ZA.utf8		: English locale for South Africa
+en_ZM		: English locale for Zambia
+en_ZM.utf8		: English locale for Zambia
+en_ZW.utf8		: English locale for Zimbabwe
+uk_UA.utf8		: Ukrainian Language Locale for Ukraine
+C.UTF-8		: C locale
+
+Filesystems
+-----------
+
+-Mounted File Systems-
+udev	/dev	0,00 % (1,8 GiB of 1,8 GiB)	
+tmpfs	/run	1,69 % (374,6 MiB of 381,1 MiB)	
+/dev/sda1	/	66,98 % (4,5 GiB of 13,7 GiB)	
+tmpfs	/dev/shm	0,00 % (1,9 GiB of 1,9 GiB)	
+tmpfs	/run/lock	0,08 % (5,0 MiB of 5,0 MiB)	
+tmpfs	/sys/fs/cgroup	0,00 % (1,9 GiB of 1,9 GiB)	
+/dev/sda2	/home	13,96 % (3,9 GiB of 4,5 GiB)	
+/dev/sdb3	/media/joker/063C3ED53C3EBF8B	6,84 % (44,7 GiB of 47,9 GiB)	
+/dev/sdb2	/media/joker/500E46FB0E46D99C	27,68 % (72,8 GiB of 100,7 GiB)	
+tmpfs	/run/user/121	0,01 % (381,1 MiB of 381,1 MiB)	
+tmpfs	/run/user/1000	6,48 % (356,4 MiB of 381,1 MiB)	
+
+Display
+-------
+
+-Display-
+Resolution		: 1280x1024 pixels
+Vendor		: The X.Org Foundation
+Version		: 1.19.5
+-Monitors-
+Monitor 0		: 1280x1024 pixels
+-OpenGL-
+Vendor		: Unknown
+Renderer		: Unknown
+Version		: Unknown
+Direct Rendering		: No
+-Extensions-
+BIG-REQUESTS
+Composite
+DAMAGE
+DOUBLE-BUFFER
+DPMS
+GLX
+Generic Event Extension
+MIT-SCREEN-SAVER
+MIT-SHM
+Present
+RANDR
+RECORD
+RENDER
+SECURITY
+SGI-GLX
+SHAPE
+SYNC
+X-Resource
+XC-MISC
+XFIXES
+XFree86-VidModeExtension
+XINERAMA
+XInputExtension
+XKEYBOARD
+XTEST
+XVideo
+
+Environment Variables
+---------------------
+
+-Environment Variables-
+XDG_RUNTIME_DIR		: /run/user/1000
+SESSION_MANAGER		: local/UBUNTU17-OptiPlex755:@/tmp/.ICE-unix/17869,unix/UBUNTU17-OptiPlex755:/tmp/.ICE-unix/17869
+SYSTEMD_NSS_BYPASS_BUS		: 1
+XMODIFIERS		: @im=ibus
+XDG_SESSION_TYPE		: wayland
+DBUS_SESSION_BUS_ADDRESS		: unix:path=/run/user/1000/bus,guid=dd9d916e594d4541f89504945a339a6b
+USER		: joker
+QT_IM_MODULE		: ibus
+DBUS_STARTER_BUS_TYPE		: session
+LC_ADDRESS		: uk_UA.UTF-8
+SHLVL		: 1
+XDG_MENU_PREFIX		: gnome-
+XDG_SESSION_DESKTOP		: ubuntu
+SHELL		: /bin/bash
+LC_NAME		: uk_UA.UTF-8
+LC_MEASUREMENT		: uk_UA.UTF-8
+LC_MONETARY		: uk_UA.UTF-8
+LC_TIME		: uk_UA.UTF-8
+USERNAME		: joker
+XDG_DATA_DIRS		: /usr/share/ubuntu:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+LANGUAGE		: uk:en
+QT4_IM_MODULE		: xim
+IM_CONFIG_PHASE		: 2
+GNOME_SHELL_SESSION_MODE		: ubuntu
+LC_TELEPHONE		: uk_UA.UTF-8
+TEXTDOMAINDIR		: /usr/share/locale/
+WAYLAND_DISPLAY		: wayland-0
+PWD		: /home/joker
+HOME		: /home/joker
+_		: /usr/bin/gnome-session
+CLUTTER_IM_MODULE		: xim
+DBUS_STARTER_ADDRESS		: unix:path=/run/user/1000/bus,guid=dd9d916e594d4541f89504945a339a6b
+DISPLAY		: :0
+SSH_AUTH_SOCK		: /run/user/1000/keyring/ssh
+LC_PAPER		: uk_UA.UTF-8
+LC_NUMERIC		: uk_UA.UTF-8
+PATH		: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+GTK_IM_MODULE		: ibus
+GDMSESSION		: ubuntu
+XDG_VTNR		: 2
+GNOME_DESKTOP_SESSION_ID		: this-is-deprecated
+JOURNAL_STREAM		: 9:116746
+XDG_SESSION_ID		: 5
+XDG_SEAT		: seat0
+INVOCATION_ID		: 5529cbc25e0b439aac00ebd72f0228fe
+LANG		: uk_UA.UTF-8
+LOGNAME		: joker
+TEXTDOMAIN		: im-config
+XDG_CURRENT_DESKTOP		: ubuntu:GNOME
+DESKTOP_SESSION		: ubuntu
+LC_IDENTIFICATION		: uk_UA.UTF-8
+MANAGERPID		: 17853
+XDG_CONFIG_DIRS		: /etc/xdg/xdg-ubuntu:/etc/xdg
+GIO_LAUNCHED_DESKTOP_FILE		: /usr/share/applications/hardinfo.desktop
+GIO_LAUNCHED_DESKTOP_FILE_PID		: 21356
+
+Development
+-----------
+
+-Scripting Languages-
+Gambas3 (gbr3)		: Not found
+Python		: 2.7.14
+Python2		: 2.7.14
+Python3		: 3.6.3
+Perl		: 5.26.0
+Perl6 (VM)		: Not found
+Perl6		: Not found
+PHP		: Not found
+Ruby		: Not found
+Bash		: 4.4.12(1)-release
+-Compilers-
+C (GCC)		: Not found
+C (Clang)		: Not found
+D (dmd)		: Not found
+Gambas3 (gbc3)		: Not found
+Java		: Not found
+CSharp (Mono, old)		: Not found
+CSharp (Mono)		: Not found
+Vala		: Not found
+Haskell (GHC)		: Not found
+FreePascal		: Not found
+Go		: Not found
+-Tools-
+make		: Not found
+GDB		: (Ubuntu 8.0.1-0ubuntu1) 8.0.1
+strace		: 4.15
+valgrind		: Not found
+QMake		: Not found
+CMake		: Not found
+Gambas3 IDE		: Not found
+
+Users
+-----
+
+-Users-
+root		: root
+daemon		: daemon
+bin		: bin
+sys		: sys
+sync		: sync
+games		: games
+man		: man
+lp		: lp
+mail		: mail
+news		: news
+uucp		: uucp
+proxy		: proxy
+www-data		: www-data
+backup		: backup
+list		: Mailing List Manager
+irc		: ircd
+gnats		: Gnats Bug-Reporting System (admin)
+nobody		: nobody
+systemd-timesync		: systemd Time Synchronization
+systemd-network		: systemd Network Management
+systemd-resolve		: systemd Resolver
+systemd-bus-proxy		: systemd Bus Proxy
+syslog
+messagebus
+_apt
+uuidd
+rtkit		: RealtimeKit
+avahi-autoipd		: Avahi autoip daemon
+usbmux		: usbmux daemon
+dnsmasq		: dnsmasq
+whoopsie
+kernoops		: Kernel Oops Tracking Daemon
+speech-dispatcher		: Speech Dispatcher
+avahi		: Avahi mDNS daemon
+saned
+pulse		: PulseAudio daemon
+colord		: colord colour management daemon
+hplip		: HPLIP system user
+geoclue
+gdm		: Gnome Display Manager
+joker		: IxI_JOKER_IxI
+
+Groups
+------
+
+-Group-
+root		: 0
+daemon		: 1
+bin		: 2
+sys		: 3
+adm		: 4
+tty		: 5
+disk		: 6
+lp		: 7
+mail		: 8
+news		: 9
+uucp		: 10
+man		: 12
+proxy		: 13
+kmem		: 15
+dialout		: 20
+fax		: 21
+voice		: 22
+cdrom		: 24
+floppy		: 25
+tape		: 26
+sudo		: 27
+audio		: 29
+dip		: 30
+www-data		: 33
+backup		: 34
+operator		: 37
+list		: 38
+irc		: 39
+src		: 40
+gnats		: 41
+shadow		: 42
+utmp		: 43
+video		: 44
+sasl		: 45
+plugdev		: 46
+staff		: 50
+games		: 60
+users		: 100
+nogroup		: 65534
+systemd-journal		: 101
+systemd-timesync		: 102
+systemd-network		: 103
+systemd-resolve		: 104
+systemd-bus-proxy		: 105
+input		: 106
+crontab		: 107
+syslog		: 108
+messagebus		: 109
+netdev		: 110
+mlocate		: 111
+ssl-cert		: 112
+uuidd		: 113
+rtkit		: 114
+avahi-autoipd		: 115
+bluetooth		: 116
+ssh		: 117
+lpadmin		: 118
+whoopsie		: 119
+avahi		: 120
+scanner		: 121
+saned		: 122
+pulse		: 123
+pulse-access		: 124
+colord		: 125
+geoclue		: 126
+gdm		: 127
+joker		: 1000
+sambashare		: 128
+
+Devices
+*******
+
+
+Processor
+---------
+
+-Processors-
+Package Information
+Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz		: 2992,00 MHz
+Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz		: 2992,00 MHz
+
+Memory
+------
+
+-Memory-
+MemTotal	Total Memory	3902248 kB	
+MemFree	Free Memory	254788 kB	
+MemAvailable		1210828 kB	
+Buffers		41340 kB	
+Cached		1641404 kB	
+SwapCached	Cached Swap	0 kB	
+Active		2002192 kB	
+Inactive		1408532 kB	
+Active(anon)		1467208 kB	
+Inactive(anon)		835284 kB	
+Active(file)		534984 kB	
+Inactive(file)		573248 kB	
+Unevictable		16 kB	
+Mlocked		16 kB	
+SwapTotal	Virtual Memory	3906556 kB	
+SwapFree	Free Virtual Memory	3906556 kB	
+Dirty		760 kB	
+Writeback		4 kB	
+AnonPages		1727996 kB	
+Mapped		368352 kB	
+Shmem		810880 kB	
+Slab		145796 kB	
+SReclaimable		101824 kB	
+SUnreclaim		43972 kB	
+KernelStack		10304 kB	
+PageTables		48580 kB	
+NFS_Unstable		0 kB	
+Bounce		0 kB	
+WritebackTmp		0 kB	
+CommitLimit		5857680 kB	
+Committed_AS		7089940 kB	
+VmallocTotal		34359738367 kB	
+VmallocUsed		0 kB	
+VmallocChunk		0 kB	
+HardwareCorrupted		0 kB	
+AnonHugePages		0 kB	
+ShmemHugePages		0 kB	
+ShmemPmdMapped		0 kB	
+CmaTotal		0 kB	
+CmaFree		0 kB	
+HugePages_Total		0	
+HugePages_Free		0	
+HugePages_Rsvd		0	
+HugePages_Surp		0	
+Hugepagesize		2048 kB	
+DirectMap4k		216060 kB	
+DirectMap2M		3835904 kB	
+
+PCI Devices
+-----------
+
+-PCI Devices-
+Host bridge		: Intel Corporation 82Q35 Express DRAM Controller (rev 02)
+PCI bridge		: Intel Corporation 82Q35 Express PCI Express Root Port (rev 02) (prog-if 00 [Normal decode])
+VGA compatible controller		: Intel Corporation 82Q35 Express Integrated Graphics Controller (rev 02) (prog-if 00 [VGA controller])
+Display controller		: Intel Corporation 82Q35 Express Integrated Graphics Controller (rev 02)
+Communication controller		: Intel Corporation 82Q35 Express MEI Controller (rev 02)
+IDE interface		: Intel Corporation 82Q35 Express PT IDER Controller (rev 02) (prog-if 85 [Master SecO PriO])
+Serial controller		: Intel Corporation 82Q35 Express Serial KT Controller (rev 02) (prog-if 02 [16550])
+Ethernet controller		: Intel Corporation 82566DM-2 Gigabit Network Connection (rev 02)
+USB controller		: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #4 (rev 02) (prog-if 00 [UHCI])
+USB controller		: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #5 (rev 02) (prog-if 00 [UHCI])
+USB controller		: Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #2 (rev 02) (prog-if 20 [EHCI])
+Audio device		: Intel Corporation 82801I (ICH9 Family) HD Audio Controller (rev 02)
+PCI bridge		: Intel Corporation 82801I (ICH9 Family) PCI Express Port 1 (rev 02) (prog-if 00 [Normal decode])
+USB controller		: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+USB controller		: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #2 (rev 02) (prog-if 00 [UHCI])
+USB controller		: Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #3 (rev 02) (prog-if 00 [UHCI])
+USB controller		: Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+PCI bridge		: Intel Corporation 82801 PCI Bridge (rev 92) (prog-if 01 [Subtractive decode])
+ISA bridge		: Intel Corporation 82801IO (ICH9DO) LPC Interface Controller (rev 02)
+SATA controller		: Intel Corporation 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode] (rev 02) (prog-if 01 [AHCI 1.0])
+SMBus		: Intel Corporation 82801I (ICH9 Family) SMBus Controller (rev 02)
+
+USB Devices
+-----------
+
+-USB Devices-
+Linux Foundation 2.0 root hub
+Linux Foundation 1.1 root hub
+GreenAsia Inc. multimedia keyboard controller
+Linux Foundation 1.1 root hub
+Linux Foundation 1.1 root hub
+Linux Foundation 2.0 root hub
+Linux Foundation 1.1 root hub
+Logitech, Inc. M105 Optical Mouse
+Linux Foundation 1.1 root hub
+
+Printers
+--------
+
+-Printers (CUPS)-
+HP_LaserJet_MFP_M227sdn_3A6BFB_
+
+Battery
+-------
+
+-No batteries-
+No batteries found on this system
+
+Sensors
+-------
+
+-Sensors-
+coretemp/temp2	Temperature	43,00°C	
+coretemp/temp3	Temperature	35,00°C	
+
+Input Devices
+-------------
+
+-Input Devices-
+ Power Button
+ Power Button
+ Logitech USB Optical Mouse
+ GASIA USB KB V11
+ GASIA USB KB V11
+ HDA Intel Mic
+ HDA Intel Line
+ HDA Intel Line Out
+ HDA Intel Front Headphone
+
+Storage
+-------
+
+-SCSI Disks-
+ATA KINGSTON SV300S3
+ATA WDC WD1600AAJS-7
+
+DMI
+---
+
+-BIOS-
+Date		: 06/11/2012
+Vendor		: Dell Inc. (Dell Computer, www.dell.com)
+Version		: A22
+-Board-
+Name		: 0DR845
+Vendor		: Dell Inc. (Dell Computer, www.dell.com)
+-Product-
+Name		: OptiPlex 755
+Family
+Version
+
+Memory SPD
+----------
+
+-SPD-
+Please load the eeprom module to obtain information about memory SPD
+
+Resources
+---------
+
+-I/O Ports-
+<tt>0000-0000 </tt>		: PCI Bus 0000:00
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>0000-0000 </tt>		: PCI Bus 0000:00
+<tt>0000-0000 </tt>		: PCI Bus 0000:00
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+<tt>  0000-0000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB UHCI Controller #1 (rev 02) (prog-if 00 [UHCI])
+<tt>    0000-0000 </tt>		: uhci_hcd
+-Memory-
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>      00000000-00000000 </tt>		: <b><small>Module</small></b> Intel(R) PRO/1000 Network Driver
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>      00000000-00000000 </tt>		: <b><small>Module</small></b> Intel(R) PRO/1000 Network Driver
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>      00000000-00000000 </tt>		: <b><small>Module</small></b> Intel(R) PRO/1000 Network Driver
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>      00000000-00000000 </tt>		: <b><small>Module</small></b> Intel(R) PRO/1000 Network Driver
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>      00000000-00000000 </tt>		: <b><small>Module</small></b> Intel(R) PRO/1000 Network Driver
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>      00000000-00000000 </tt>		: <b><small>Module</small></b> Intel(R) PRO/1000 Network Driver
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>  00000000-00000000 </tt>		: <b><small>PCI</small></b>  Intel Corporation 82801I (ICH9 Family) USB2 EHCI Controller #1 (rev 02) (prog-if 20 [EHCI])
+<tt>    00000000-00000000 </tt>		: ehci_hcd
+<tt>00000000-00000000 </tt>		: System RAM
+<tt>00000000-00000000 </tt>		: System RAM
+-DMA-
+<tt> 4</tt>		: cascade
+
+Network
+*******
+
+
+Interfaces
+----------
+
+-Network Interfaces-
+enp0s25	383,64MiB	12,75MiB	192.168.1.190	
+lo	0,10MiB	0,10MiB	127.0.0.1	
+
+IP Connections
+--------------
+
+-Connections-
+
+Routing Table
+-------------
+
+-IP routing table-
+
+ARP Table
+---------
+
+-ARP Table-
+192.168.1.156	18:0c:ac:dc:d4:6a	enp0s25	
+192.168.1.1	c0:4a:00:bb:01:56	enp0s25	
+192.168.1.199	40:8d:5c:00:87:99	enp0s25	
+192.168.1.216	40:f0:2f:86:68:9b	enp0s25	
+
+DNS Servers
+-----------
+
+-Name Servers-
+127.0.0.53		: localhost
+
+Statistics
+----------
+
+
+Shared Directories
+------------------
+
+-SAMBA-
+
+Benchmarks
+**********
+
+
+CPU Blowfish
+------------
+
+-CPU Blowfish-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	5,826	
+Intel Pentium D  3.00GHz	2x 3000 MHz	10.838	
+Intel Celeron 540	1861 MHz	25.494	
+AMD Turion 64 X2 TL-58	2x 800 MHz	12.576	
+AMD Athlon 64 X2 Dual Core  3800+	2x 2200 MHz	10.707	
+AMD Athlon 64 X2 Dual Core  6400+	2x 1000 MHz	6.421	
+Intel Core2 Extreme  X7900	2x 2800 MHz	6.809	
+Intel Pentium M  1.70GHz	600 MHz	28.279	
+AMD Phenom 8650 Triple-Core	3x 2300 MHz	5.965	
+Intel Pentium 4  2.40GHz	2400 MHz	24.567	
+AMD Athlon 64 X2 Dual Core  4400+	2x 1000 MHz	7.918	
+AMD Phenom II X4 940	4x 800 MHz	3.488	
+Pentium III (Coppermine)	2x 999 MHz	17.808	
+Intel Pentium 4  3.20GHz	2x 2400 MHz	12.058	
+Intel Pentium 4  1500MHz	1495 MHz	46.556	
+AMD Turion 64 X2 Mobile  TL-58	2x 1900 MHz	10.104	
+Intel Celeron M  1.40GHz	1395 MHz	80.940	
+Mobile AMD Athlon XP 2800+	1459 MHz	18.040	
+Intel Celeron 420	1600 MHz	21.238	
+AMD Phenom 9750 Quad-Core	4x 1200 MHz	4.291	
+Intel Atom  N280	2x 1000 MHz	16.764	
+AMD Athlon X2 Dual-Core QL-60	2x 1900 MHz	10.585	
+Intel Pentium DualT2370	2x 1733 MHz	9.581	
+AMD Athlon XP 1900+	1593 MHz	31.620	
+AMD Athlon XP 1800+	1540 MHz	23.128	
+Intel Pentium M  1.73GHz	798 MHz	19.657	
+AMD Sempron  3200+	1000 MHz	25.468	
+VIA Esther  1500MHz	1499 MHz	41.594	
+Intel Core2 Quad Q6700	4x 2669 MHz	3.174	
+AMD Athlon 64 X2 Dual Core  5000+	2x 1000 MHz	7.489	
+Intel Xeon 3040	2x 1862 MHz	9.113	
+Intel Pentium DualT2310	2x 1463 MHz	11.596	
+Intel Core2 Duo  P8400	2x 800 MHz	8.293	
+AMD Turion X2 Dual-Core Mobile RM-74	2x 600 MHz	8.970	
+Intel  575	1995 MHz	20.357	
+AMD Turion 64 X2 Mobile  TL-62	2x 800 MHz	8.836	
+AMD Turion 64 X2 Mobile  TL-56	2x 800 MHz	10.790	
+Intel Celeron  2.80GHz	2793 MHz	40.872	
+Intel Pentium 4  2.80GHz	2x 2800 MHz	11.699	
+Intel 2140	2x 1595 MHz	10.672	
+AMD Athlon 7750 Dual-Core	2x 1350 MHz	7.449	
+Intel Core2 Duo  E8400	2x 2997 MHz	5.538	
+Intel Core2  T7400	2x 2161 MHz	9.372	
+Intel Pentium 4  2.53GHz	2525 MHz	48.077	
+Intel Core2 Quad Q9550	4x 2830 MHz	3.244	
+Intel Core2 6700	2x 2667 MHz	6.902	
+AMD Turion X2 Dual-Core Mobile RM-72	2x 500 MHz	11.859	
+Intel Core2 Duo  T9400	2x 800 MHz	6.757	
+AMD Athlon 64 X2 Dual Core  4800+	2x 2512 MHz	8.735	
+Intel Celeron M 520	1600 MHz	22.072	
+Intel Core2 Quad Q8300	4x 2497 MHz	3.346	
+
+CPU CryptoHash
+--------------
+
+-CPU CryptoHash-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	225,521	
+Intel Atom 330	4x 1596 MHz	105.569	
+Intel Core2 Duo  T5250	2x 1000 MHz	102.949	
+Intel Celeron M 900MHz	900 MHz	24.338	
+Intel Core2  E8400	2x 3000 MHz	163.391	
+Intel Xeon  E5405	2x 1995 MHz	117.480	
+Intel Core Duo T2450	2x 800 MHz	127.241	
+Intel Pentium 4  2.00GHz	1994 MHz	24.650	
+AMD Phenom 9350e Quad-Core	4x 2000 MHz	237.011	
+AMD Turion X2 Ultra Dual-Core Mobile ZM-82	2x 600 MHz	100.065	
+AMD Athlon XP 3000+	2158 MHz	66.539	
+Intel Celeron M 520	1600 MHz	52.308	
+Intel Core2 Quad Q6700	4x 2669 MHz	264.055	
+AMD Athlon XP 1900+	1593 MHz	31.633	
+Intel Pentium 4  3.20GHz	2x 2400 MHz	66.611	
+AMD Sempron 2600+	1840 MHz	53.870	
+AMD Athlon 64 X2 Dual Core  3800+	2x 2200 MHz	94.123	
+AMD Turion 64 X2 Mobile  TL-62	2x 800 MHz	119.427	
+AMD Athlon XP 2000+	1667 MHz	45.755	
+AMD Athlon 64  3500+	1000 MHz	62.204	
+AMD Turion 64 X2 Mobile  TL-56	2x 800 MHz	92.191	
+AMD Athlon 64 X2 Dual Core  4000+	2x 1000 MHz	97.036	
+Intel Pentium D  3.00GHz	2x 3000 MHz	96.755	
+Mobile AMD Sempron  3600+	800 MHz	54.437	
+Intel Core2 Quad Q9650	4x 2997 MHz	303.512	
+AMD Sempron  3600+	1000 MHz	43.977	
+Intel Core2 Duo  T9400	2x 800 MHz	148.711	
+AMD Turion 64 X2 Mobile  TL-58	2x 1900 MHz	101.693	
+Intel Core2 Duo  P7350	2x 2000 MHz	103.950	
+VIA Esther  1500MHz	1499 MHz	7.752	
+Intel Core2 Duo  P8600	2x 800 MHz	150.445	
+Intel Core2 Duo  T7700	2x 800 MHz	142.537	
+Intel Core2 Duo  T5550	2x 1829 MHz	122.423	
+Intel Core2 Duo  T7250	2x 2001 MHz	121.915	
+Intel Core2 6700	2x 2667 MHz	163.639	
+Intel Pentium 4  2.40GHz	2400 MHz	30.963	
+Intel Core2 Quad Q9400	4x 2003 MHz	296.869	
+AMD Athlon 64  3200+	1000 MHz	42.300	
+Intel Pentium DualT3200	2x 2000 MHz	88.536	
+Intel Pentium 4  2.26GHz	2267 MHz	29.413	
+AMD Sempron  3400+	1000 MHz	53.845	
+AMD Sempron  3000+	1800 MHz	47.787	
+AMD Athlon XP 2400+	1991 MHz	61.644	
+Intel Atom  Z530	2x 1067 MHz	54.891	
+Pentium III (Coppermine)	700 MHz	26.992	
+Intel Core i7  920	8x 3799 MHz	390.240	
+AMD Athlon 64 X2 Dual Core  6000+	2x 3051 MHz	146.744	
+AMD Turion 64 Mobile  ML-37	2000 MHz	42.208	
+Intel Xeon 3040	2x 1862 MHz	127.825	
+AMD Athlon XP 2500+	1792 MHz	39.659	
+Intel Core2 Duo  T9500	2x 2593 MHz	172.640	
+
+CPU Fibonacci
+-------------
+
+-CPU Fibonacci-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	2,181	
+AMD Phenom 9500 Quad-Core	4x 1100 MHz	3.061	
+Intel Core2 Duo  T7250	2x 2001 MHz	4.572	
+Intel Pentium 4  2.80GHz	2791 MHz	5.654	
+AMD Athlon	2305 MHz	4.475	
+Intel Core2  T5200	2x 1067 MHz	7.274	
+Intel Atom 330	4x 1596 MHz	8.789	
+AMD Phenom 9150e Quad-Core	4x 900 MHz	3.281	
+AMD Turion 64 Mobile  MK-36	800 MHz	6.202	
+AMD Athlon 64  3200+	1000 MHz	5.764	
+Intel Core2 Quad Q9400	4x 2003 MHz	2.759	
+Intel Core2 Duo  T7500	2x 800 MHz	4.090	
+AMD Athlon XP	906 MHz	33.451	
+Intel Core2 Quad Q6700	4x 2669 MHz	3.537	
+Intel Pentium 4  2.00GHz	1994 MHz	8.698	
+Intel Core2 Duo  E6550	2x 2700 MHz	3.657	
+Intel Core2 Duo  T7100	2x 1801 MHz	4.788	
+Dual Core AMD Opteron  165	2x 1979 MHz	4.257	
+Intel Pentium 4  2.40GHz	2400 MHz	6.348	
+Intel Core2 Duo  P8600	2x 800 MHz	3.374	
+AMD Turion X2 Dual-Core Mobile RM-70	2x 500 MHz	4.974	
+Intel Pentium 4  2.53GHz	2525 MHz	10.356	
+Unknown  Type	1660 MHz	5.728	
+Pentium III (Coppermine)	2x 999 MHz	10.217	
+Intel Core2  T5600	2x 1000 MHz	5.239	
+Intel Celeron  3.06GHz	3059 MHz	3.961	
+AMD Phenom 9850 Quad-Core	4x 1300 MHz	2.594	
+Intel Pentium 4  3.00GHz	2x 3458 MHz	4.977	
+AMD Sempron  LE-1200	2109 MHz	6.085	
+Intel Pentium 4  2.80GHz	2791 MHz	5.654	
+AMD Athlon 64 X2 Dual Core  4000+	2x 1000 MHz	4.124	
+AMD Athlon XP 1600+	1398 MHz	6.387	
+Intel  T2050	2x 800 MHz	6.104	
+Intel Celeron 560	2128 MHz	4.776	
+AMD Phenom 8650 Triple-Core	3x 2300 MHz	3.093	
+Intel Core i7  920	8x 3799 MHz	2.787	
+AMD Athlon 64 X2 Dual Core  5000+	2x 1000 MHz	3.110	
+AMD Athlon XP 2500+	1792 MHz	7.183	
+Intel Xeon 3040	2x 1862 MHz	4.808	
+AMD Athlon X2 Dual-Core QL-60	2x 1900 MHz	4.354	
+Intel Core2  T7400	2x 2161 MHz	4.984	
+AMD Turion 64 X2 Mobile  TL-60	2x 2000 MHz	4.189	
+AMD Turion 64 X2 Mobile  TL-52	2x 1600 MHz	5.447	
+AMD Athlon 64 X2 Dual Core  6000+	2x 3051 MHz	2.747	
+Intel Atom  N280	2x 1000 MHz	8.973	
+Intel Core2 Quad Q9550	4x 2830 MHz	2.724	
+Intel Core2 Duo  T7300	2x 2001 MHz	4.773	
+AMD Sempron  3600+	1000 MHz	5.696	
+AMD Athlon	2305 MHz	4.475	
+AMD Athlon X2 Dual Core  BE-2300	2x 1899 MHz	4.373	
+Intel Core2 Duo  E6750	2x 2671 MHz	4.096	
+
+CPU N-Queens
+------------
+
+-CPU N-Queens-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	4,999	
+AMD Athlon 64 X2 Dual Core  5400+	2x 1000 MHz	15.057	
+Intel  T2080	2x 800 MHz	33.309	
+Intel Core2 Duo  T5450	2x 1000 MHz	14.488	
+Intel Core2 Quad Q9300	4x 3000 MHz	14.100	
+Intel Atom  Z530	2x 1067 MHz	18.703	
+Intel Atom 330	4x 1596 MHz	26.065	
+AMD Athlon XP 1600+	1398 MHz	19.852	
+Intel Core2 Quad Q6700	4x 2669 MHz	17.009	
+Intel Pentium 4  2.60GHz	2x 2600 MHz	14.827	
+Intel Core2 6320	2x 1600 MHz	16.536	
+Intel Core2 Extreme  X7900	2x 2800 MHz	7.020	
+Intel Core2 Quad Q9450	4x 2000 MHz	12.973	
+Intel Core2  E8400	2x 3000 MHz	7.841	
+Pentium III (Coppermine)	2x 999 MHz	35.147	
+AMD Athlon 64 X2 Dual Core  4000+	2x 1000 MHz	19.510	
+AMD Turion 64 X2 Mobile  TL-50	2x 800 MHz	23.257	
+Intel Pentium D  3.40GHz	2x 2400 MHz	13.512	
+Pentium III (Coppermine)	2x 999 MHz	35.147	
+AMD Athlon 64 X2 Dual Core  3600+	2x 1000 MHz	22.980	
+AMD Athlon 64 X2 Dual Core  5200+	2x 2705 MHz	14.954	
+AMD Athlon 64 X2 Dual-Core  TK-55	2x 800 MHz	20.494	
+Intel Core2 Duo  E6850	2x 1998 MHz	7.522	
+Intel Core2 Duo  P8400	2x 800 MHz	10.388	
+Intel Core2 Quad Q9400	4x 2003 MHz	18.246	
+AMD Athlon XP 1900+	1593 MHz	26.739	
+Intel Core Duo T2350	2x 1867 MHz	22.009	
+Intel Core2 Duo  E8400	2x 2997 MHz	7.663	
+AMD Athlon XP 2800+	2087 MHz	13.555	
+Intel  T2500	2x 1000 MHz	28.389	
+AMD Turion 64 X2 Mobile  TL-58	2x 1900 MHz	20.024	
+Intel Pentium 4  3.40GHz	2x 2400 MHz	15.298	
+Intel Celeron M 900MHz	900 MHz	33.259	
+AMD Athlon X2 Dual-Core QL-60	2x 1900 MHz	20.337	
+Intel Core2 Duo  T5850	2x 2167 MHz	10.372	
+Mobile AMD Athlon XP-M  3000+	799 MHz	52.785	
+AMD Phenom 9500 Quad-Core	4x 1100 MHz	10.061	
+Intel Celeron M  1.40GHz	1395 MHz	94.050	
+Mobile AMD Athlon XP 2800+	1459 MHz	13.362	
+AMD Athlon 64  3000+	1800 MHz	18.076	
+Intel  L2400	2x 1000 MHz	19.551	
+AMD Sempron  2800+	1999 MHz	17.227	
+AMD Sempron 2600+	1840 MHz	14.693	
+Intel Pentium M  1600MHz	1600 MHz	15.228	
+Intel  575	1995 MHz	15.876	
+Intel  T2300	2x 1000 MHz	27.251	
+Intel Pentium M  1.70GHz	600 MHz	22.545	
+AMD Athlon XP  1800+	1533 MHz	17.547	
+Intel Core2 Duo  T5750	2x 1994 MHz	11.140	
+Intel Core2 Duo  T7250	2x 2001 MHz	11.387	
+Intel Pentium 4  1500MHz	1495 MHz	28.460	
+
+CPU Zlib
+--------
+
+-CPU Zlib-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	0,377	
+ARM Cortex-A53 r0p4 (Aarch32)	4x 1200 MHz	0.18	
+ARM ARM1176 r0p7 (Aarch32)	900 MHz	0.01	
+
+FPU FFT
+-------
+
+-FPU FFT-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	2,880	
+Intel Pentium DualT3200	2x 2000 MHz	5.500	
+Intel Celeron  2.53GHz	2527 MHz	10.122	
+Intel  T1350	1867 MHz	83.465	
+AMD Turion 64 X2 Mobile  TL-60	2x 2000 MHz	8.225	
+AMD Turion X2 Dual-Core Mobile RM-70	2x 500 MHz	8.312	
+Intel Core Duo T2350	2x 1867 MHz	5.356	
+Intel Core2 Duo  T5750	2x 1994 MHz	4.231	
+Intel Core2 Duo  T9500	2x 2593 MHz	3.124	
+AMD Athlon X2 Dual-Core QL-60	2x 1900 MHz	9.080	
+Intel Core2 Duo  T5250	2x 1000 MHz	5.507	
+Mobile AMD Athlon XP-M  3000+	799 MHz	43.154	
+AMD Athlon 64 X2 Dual Core  4000+	2x 1000 MHz	7.997	
+AMD Athlon XP  1800+	1533 MHz	25.139	
+Intel 2140	2x 1595 MHz	5.442	
+Intel Core2 Quad Q6600	4x 1603 MHz	1.631	
+Intel Core2 Duo  P7350	2x 2000 MHz	4.758	
+Intel  T2080	2x 800 MHz	4.985	
+Intel Celeron  2.50GHz	2492 MHz	14.459	
+Intel Pentium M  1.86GHz	1867 MHz	11.875	
+Intel Core2  T5200	2x 1067 MHz	6.486	
+Intel Core2 6320	2x 1600 MHz	4.908	
+AMD Athlon XP	906 MHz	84.350	
+AMD Athlon 64  3000+	1800 MHz	25.187	
+Intel Pentium 4  2.60GHz	2x 2600 MHz	8.536	
+Intel Core2 Quad Q9400	4x 2003 MHz	1.485	
+Intel Pentium M  1600MHz	1600 MHz	13.500	
+Pentium Dual-Core  T4200	2x 1200 MHz	4.615	
+Intel Core2 Quad	4x 2400 MHz	1.696	
+Intel Core2 Quad Q8300	4x 2497 MHz	1.659	
+Intel Core2 Extreme  X7900	2x 2800 MHz	3.065	
+Intel Celeron D  3.20GHz	3196 MHz	8.552	
+AMD Sempron 2600+	1840 MHz	20.952	
+AMD Athlon 64 X2 Dual Core  4400+	2x 1000 MHz	6.805	
+Intel Celeron  2.66GHz	2666 MHz	9.887	
+Intel Core Duo T2450	2x 800 MHz	4.331	
+Intel Celeron M 520	1600 MHz	11.346	
+Intel Pentium 4  3.06GHz	2x 3065 MHz	7.454	
+Intel Core2 4300	2x 1200 MHz	5.368	
+Intel Core2 6400	2x 2128 MHz	4.678	
+AMD Turion 64 Mobile  MK-36	800 MHz	19.958	
+Intel Core2 6600	2x 1596 MHz	3.546	
+Intel Core2 Duo  T7250	2x 2001 MHz	4.160	
+Intel Celeron M 900MHz	900 MHz	24.212	
+AMD Sempron  3400+	1000 MHz	17.114	
+AMD Athlon XP 2500+	1792 MHz	27.327	
+AMD Sempron  3000+	1800 MHz	18.941	
+AMD Athlon XP 2200+	1782 MHz	22.197	
+Intel Pentium 4  3.06GHz	2x 3065 MHz	7.454	
+AMD  model unknown	2x 3006 MHz	5.242	
+AMD Turion 64 X2 Mobile  TL-62	2x 800 MHz	7.519	
+ARM Cortex-A53 r0p4 (Aarch32)	4x 1200 MHz	11.95	
+ARM ARM1176 r0p7 (Aarch32)	900 MHz	114.57	
+
+FPU Raytracing
+--------------
+
+-FPU Raytracing-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	4,008	
+Intel Core Duo T2450	2x 800 MHz	28.359	
+AMD Athlon XP 2200+	1782 MHz	29.739	
+Intel Pentium DualT2370	2x 1733 MHz	25.822	
+AMD Sempron  3200+	1000 MHz	30.191	
+AMD Athlon 64 X2 Dual-Core  TK-55	2x 800 MHz	16.469	
+Intel Core2 6600	2x 1596 MHz	11.244	
+Intel Core2 Duo  T5270	2x 800 MHz	32.813	
+AMD Athlon 64 X2 Dual-Core  TK-53	2x 800 MHz	18.472	
+Intel Pentium M  1.86GHz	1867 MHz	28.196	
+Intel Core2 Duo  T5750	2x 1994 MHz	16.383	
+AMD Turion 64 Mobile  ML-32	800 MHz	28.432	
+Intel Celeron 530	2593 MHz	17.548	
+Intel Core i7  920	8x 3799 MHz	4.731	
+Intel Core2 Quad Q9650	4x 2997 MHz	18.842	
+AMD Turion 64 Mobile  MK-36	800 MHz	30.838	
+Intel Pentium D  3.40GHz	2x 2400 MHz	25.418	
+AMD Athlon X2 Dual-Core QL-60	2x 1900 MHz	18.295	
+Intel Pentium III  - S 1400MHz	1392 MHz	33.361	
+AMD Phenom II X4 20	4x 3654 MHz	13.290	
+Intel Core2  E8400	2x 3000 MHz	15.790	
+Intel Pentium 4  2.66GHz	2676 MHz	32.384	
+Intel Pentium 4  2.60GHz	2x 2600 MHz	57.371	
+Intel Core2 Duo  P9500	2x 2535 MHz	5.507	
+Intel Celeron M 900MHz	900 MHz	64.668	
+AMD Athlon 64 X2 Dual Core  4800+	2x 2512 MHz	12.799	
+Intel Pentium M  1.73GHz	798 MHz	27.691	
+Intel  T2080	2x 800 MHz	31.108	
+AMD Athlon 64  4000+	1000 MHz	20.492	
+Intel Pentium 4  2.53GHz	2525 MHz	36.544	
+Intel Celeron 560	2128 MHz	21.147	
+Intel Core2 Extreme  X7900	2x 2800 MHz	18.268	
+Intel Core2 Duo  T9400	2x 800 MHz	5.586	
+AMD Athlon 64 X2 Dual Core  6400+	2x 1000 MHz	10.933	
+Intel Celeron M 420	1599 MHz	36.998	
+Intel Xeon  E5405	2x 1995 MHz	17.808	
+Intel 2140	2x 1595 MHz	22.055	
+Intel Pentium M  1700MHz	600 MHz	27.284	
+Pentium II (Deschutes)	401 MHz	124.072	
+Intel Core2 Duo  T8100	2x 2094 MHz	23.759	
+Intel Core2 4300	2x 1200 MHz	18.171	
+AMD Athlon XP 3000+	2158 MHz	23.066	
+AMD Phenom 8450 Triple-Core	3x 1100 MHz	18.564	
+Intel Core2 Duo  P8400	2x 800 MHz	12.067	
+AMD Athlon XP 1800+	1540 MHz	31.725	
+Intel Celeron 550	1995 MHz	23.904	
+Intel Pentium 4  3.20GHz	2x 2400 MHz	31.439	
+Intel Pentium M  1.80GHz	600 MHz	27.133	
+Intel Celeron  2.80GHz	2793 MHz	81.047	
+Intel  T1350	1867 MHz	222.178	
+Intel Pentium 4  2.80GHz	2791 MHz	28.658	
+
+GPU Drawing
+-----------
+
+-GPU Drawing-
+<big><b>Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz</b></big>	2x 2992,00 MHz	6663,592	
